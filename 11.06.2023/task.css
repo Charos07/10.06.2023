@@ -1,0 +1,24 @@
+*
+{
+    margin: 0 auto;
+    width: 500px;
+    background-color: rgb(5, 98, 184);
+}
+.box1 p
+{
+    border: 1px solid white;
+    background-color: azure;
+   width: 200px;
+   height: 40px;
+   text-align: center;
+}
+.box2 p
+{
+    border: 1px solid white;
+    background-color: azure;
+   width: 90px;
+   height: 110px;
+   position: absolute;
+   top: 60px;
+   left: 150px;
+}
